@@ -45,7 +45,7 @@ java -version
 ### Executando pelo Terminal (Prompt de Comando, PowerShell ou Bash)
 1. **Baixe ou clone o repositório:**
    ```bash
-   git clone https://github.com/SEU_USUARIO/calculadora-imc-java.git
+   git clone https://github.com/drd-kn/calculadora-imc.git
    cd calculadora-imc
    ```
 2. **Compile o código-fonte:**
@@ -78,3 +78,6 @@ java -version
 
 ## 👤 Autor
 Desenvolvido por **Elias** durante os estudos práticos no Bootcamp Itaú na **[DIO](https://web.dio.me/home)**.
+
+
+**OBS: estou muito feliz por aprender tanto sobre Controle de Fluxo Condicional e todos os tipos de Tipagens**
